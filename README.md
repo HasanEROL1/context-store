@@ -27,6 +27,8 @@ Küçük ölçekli projelerde global state yönetimi için Redux yerine Context 
 
  📦 Kurulum
 git clone https://github.com/hasanerol1/context-store.git
+
+
 cd context-store
 npm install
 npm run dev  # veya npm start
