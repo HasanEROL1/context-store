@@ -14,12 +14,21 @@ Küçük ölçekli projelerde global state yönetimi için Redux yerine Context 
 -React Router ile sayfa geçişleri
 
 🧰 Kullanılan Teknolojiler
-React
+ • React 
 
-.Context API
+ • Context API
 
-.React Router v6
+ • React Router v6
 
-.React Toastify
+ • React Toastify
 
-.Bootstrap (isteğe bağlı)
+ • Bootstrap (isteğe bağlı)
+
+
+ 📦 Kurulum
+git clone https://github.com/hasanerol1/context-store.git
+cd context-store
+npm install
+npm run dev  # veya npm start
+
+ 
