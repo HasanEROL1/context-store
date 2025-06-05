@@ -3,7 +3,7 @@ Basit bir e-ticaret sepet uygulaması — React ve Context API kullanılarak gel
 Küçük ölçekli projelerde global state yönetimi için Redux yerine Context API ile pratik bir çözüm sunar.
 
 ##🚀 Özellikler
-#Ürünleri sepete ekleme ve kaldırma
+Ürünleri sepete ekleme ve kaldırma
 
 #Toplam fiyat hesaplama
 
