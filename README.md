@@ -2,24 +2,24 @@
 Basit bir e-ticaret sepet uygulaması — React ve Context API kullanılarak geliştirilmiştir.
 Küçük ölçekli projelerde global state yönetimi için Redux yerine Context API ile pratik bir çözüm sunar.
 
-##🚀 Özellikler
-Ürünleri sepete ekleme ve kaldırma
+🚀 Özellikler
+-Ürünleri sepete ekleme ve kaldırma
 
-#Toplam fiyat hesaplama
+-Toplam fiyat hesaplama
 
-#Sepet verilerinin globalde yönetimi (Context API)
+-Sepet verilerinin globalde yönetimi (Context API)
 
-#Toast bildirimleri ile kullanıcı etkileşimi
+-Toast bildirimleri ile kullanıcı etkileşimi
 
-#React Router ile sayfa geçişleri
+-React Router ile sayfa geçişleri
 
 🧰 Kullanılan Teknolojiler
-#React
+React
 
-#Context API
+.Context API
 
-#React Router v6
+.React Router v6
 
-#React Toastify
+.React Toastify
 
-#Bootstrap (isteğe bağlı)
+.Bootstrap (isteğe bağlı)
