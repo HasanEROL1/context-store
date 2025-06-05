@@ -35,4 +35,8 @@ npm install
 
 npm run dev  # veya npm start
 
+
+
+![context-store-tanıtım](https://github.com/user-attachments/assets/f1ee1c8b-c29c-4624-8a6f-4fbe686dfba0)
+
  
